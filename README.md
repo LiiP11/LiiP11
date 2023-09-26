@@ -1,7 +1,9 @@
 <img align=right src="https://visitor-badge.laobi.icu/badge?page_id=LiiP11" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=500&color=6272A4&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+LiiP!;" />
 </h1>
+
 <details open>
   <summary><h3>:computer: Environment | :loop: Development Tools:</h3></summary>
   <div style="display: inline_block"><br>
@@ -14,6 +16,7 @@
     <img align="center" alt="icon-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
 </details>
+
 <details open>
   <summary><h3>:books: Technologies:</h3></summary>
   <div style="display: inline_block"><br>
@@ -31,6 +34,7 @@
     <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   </div>
 </details>
+
 <details open>
   <summary><h3>:phone: How to reach me:</h2></summary>
   <div>
