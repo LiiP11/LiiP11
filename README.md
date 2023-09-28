@@ -5,7 +5,7 @@
 </h1>
 
 <details open>
-  <summary><h3>:computer: Environment | :loop: Development Tools:</h3></summary>
+  <summary><h3>:computer: Development Tools:</h3></summary>
   <div style="display: inline_block"><br>
     <img align="center" alt="icon-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="icon-windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
